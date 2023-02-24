@@ -4,10 +4,10 @@
      
     
         
-      "banner_type":"unity",
-      "inter_type":"unity",
-      "native_type":"yandex",
-      "reward_type":"unity",
+      "banner_type":"admob",
+      "inter_type":"admob",
+      "native_type":"admob",
+      "reward_type":"admob",
       
 
       "ironsource_id":"1896f3d85",
